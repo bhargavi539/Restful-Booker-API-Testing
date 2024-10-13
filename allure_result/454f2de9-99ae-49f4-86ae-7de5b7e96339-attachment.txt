@@ -1,0 +1,5 @@
+ea30b6500f3ca1d
+<class 'str'>
+<class 'dict'>
+<class 'dict'>
+{'firstname': 'Edward', 'lastname': 'Ramsay', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'}
